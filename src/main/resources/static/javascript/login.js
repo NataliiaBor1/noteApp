@@ -32,5 +32,3 @@ const handleSubmit = async (e) => {
 }
 
     loginForm.addEventListener("submit", handleSubmit)
-
-}
